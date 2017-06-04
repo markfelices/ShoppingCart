@@ -5,3 +5,5 @@ How to Run:
    Command: cd {root directory}\ShoppingCart\bin
 3. Run ShoppingCart.class
    Command: java ShoppingCart
+
+Note: classes are compiled using Java 8
